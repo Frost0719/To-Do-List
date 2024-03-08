@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#app {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: #ddd;
+}
+
+.task-content {
+    margin-bottom: 5px;
+}
